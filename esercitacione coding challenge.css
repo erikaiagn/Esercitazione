@@ -1,0 +1,84 @@
+<html>
+
+<head>
+	<title>Esercitazione Coding Challenge</title>  <!-- intestazione della pagina Web -->
+</head>
+
+<body style="background-image:url(background.jpg); background-repeat:no-repeat; background-position:center down; background-size:cover"> <!-- aggiunta dello sfondo -->
+
+<h1>
+<center>
+	<img src="logo.png" height="305" width="667"> <!-- aggiunta di un immagine -->
+</center>
+</img>
+</h1>
+
+<h1 align="center">
+	<font face="Verdana" size="5">
+	<font color="#00ff00">Taking Booleaners form A to B</h1></font color="#00ff00">
+	</font>
+</h1>
+
+<table width="1000" height="50" align="center" bgcolor="#00ff00" border="0"> <!-- creazione tabella -->
+<tbody>
+<tr>
+<td width="500" bgcolor="#00ff00">
+
+	<center>
+	<a href="">Prenota</a> <!-- collegamento ad un sito, basta cliccare sulla parola -->
+	<a href="">Termina prenotazione</a>
+	<a href="">Accendi luci</a>
+	</center>
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<ul type="square"> <!-- lista elenchi non ordinati -->
+	<h1 align="left">
+		<font color="#ffffff">
+			<li> <!-- comando per la lista -->
+				<font face="Verdana" size="5">
+					<b>Monopattino Gino22</b>
+				</font>
+			</li>
+		</font color="#ffffff">
+	<b></h1>
+</ul>
+
+
+
+
+<h1 aling="left">
+	<font color="#ffffff">
+			<font face="Verdana" size="5">
+		 		&#8614 Via Guadalametri - a 220 metri da te </br>
+				Stato Carica:
+			</font>
+	</font color>
+</h1>
+		
+
+
+<table x="10" y="10" rx="2" ry="2" width="600" height="30" align="left" bgcolor="#ffa500" border="0">
+<tbody>
+<tr>
+<td width="600" bgcolor="#ffa500">
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
